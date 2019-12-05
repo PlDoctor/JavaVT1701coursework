@@ -1,3 +1,5 @@
 edu\javavt17\controllers\HelloController.class
+edu\javavt17\model\CarModel.class
 edu\javavt17\config\AppInit.class
 edu\javavt17\config\WebConfig.class
+edu\javavt17\model\CarBrand.class
